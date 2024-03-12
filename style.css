@@ -1,0 +1,20 @@
+ article h1, p {
+    font-weight: bolder;
+    font-family: Impact, sans-serif; 
+    color: brown; 
+    background-color: cadetblue;
+}
+article>p {
+    text-align: end;
+}
+
+#title{
+    font-size: 35;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.text{
+    font-size: 20;
+}
+h1+div{
+    background-color: black;
+}
